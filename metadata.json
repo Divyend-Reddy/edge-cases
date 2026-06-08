@@ -1,6 +1,0 @@
-{
-  "name": "Edge Cases",
-  "description": "Premium AI Automation Agency solving the workflows and edge cases standard templates can't.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
