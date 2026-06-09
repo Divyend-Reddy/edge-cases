@@ -85,7 +85,7 @@ export default function App() {
   };
 
   return (
-    <div className="flex flex-col min-h-screen selection:bg-[#0D0D0D] selection:text-[#E8DED4] font-sans antialiased bg-[#E8DED4] text-[#0D0D0D]">
+    <div className="flex flex-col min-h-screen selection:bg-[#0D0D0D] selection:text-[#E8DED4] font-sans antialiased bg-[#F6F4F1] text-[#0D0D0D]">
       {/* Header Panel */}
       <Header currentPage={currentPage} onNavigate={handlePageNavigation} />
 
